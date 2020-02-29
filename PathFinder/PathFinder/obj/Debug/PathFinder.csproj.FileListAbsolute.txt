@@ -1,0 +1,5 @@
+C:\Users\glasyo\source\repos\PathFinder\PathFinder\bin\Debug\PathFinder.exe.config
+C:\Users\glasyo\source\repos\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\glasyo\source\repos\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\glasyo\source\repos\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+C:\Users\glasyo\source\repos\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
